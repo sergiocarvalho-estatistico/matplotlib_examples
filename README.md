@@ -1,2 +1,14 @@
 # matplotlib_examples
-este repo contém exemplos de plotagens gráficas em python
+
+This repo contain examples of plots using matplotlib, like graphics:
+
+- Bars
+- histogram
+- violin
+- Time Serie
+- Boxplot
+- Lines
+- Scatter
+- etc
+
+
