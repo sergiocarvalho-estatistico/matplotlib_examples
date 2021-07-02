@@ -3,8 +3,8 @@
 This repo contain examples of plots using matplotlib, graphics as:
 
 - Bars
-- histogram
-- violin
+- Histogram
+- Violin
 - Time Serie
 - Boxplot
 - Lines
